@@ -1,7 +1,7 @@
 ﻿CJLangFR={};
 
 CJLangFR.title="Formulaire d'information";
-CJLangFR.subtitle="Non-CU Expense Authorization";
+CJLangFR.subtitle="for Columbia University Affiliate";
 CJLangFR.membres="Membres";
 CJLangFR.dates_contacts="Dates et contacts";
 CJLangFR.evenement="Titre de l'événement";

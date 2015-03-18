@@ -1,7 +1,7 @@
 ﻿CJLangEN={};
 
 CJLangEN.title="Information Form";
-CJLangEN.subtitle="Non-CU Expense Authorization";
+CJLangEN.subtitle="for Columbia University Affiliate";
 CJLangEN.membres="for members";
 CJLangEN.dates_contacts="Dates and contact information";
 CJLangEN.evenement="Exact title of event";
