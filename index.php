@@ -49,6 +49,18 @@ $f->inputText("tel");
 $f->buttons("previous-previous,next-next");
 $f->endArticle();
 
+
+$f->newArticle("noteNav");
+$f->h("note");
+$f->inputText("firstname",true);
+$f->inputText("lastname",true);
+$f->inputText("courriel",true,"mail");
+$f->inputText("tel");
+$f->textarea("adresse",true);
+$f->buttons("previous-previous,next-next");
+$f->endArticle();
+
+
 $f->newArticle("natureNav");
 $f->h("nature");
 $f->select("roomReserved","grandeSalle,salleConference,autre_precisez",true);
